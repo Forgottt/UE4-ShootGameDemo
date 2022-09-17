@@ -1,0 +1,1 @@
+如需调试源文件  需要有boost库，并且需要在项目中配置mySpl数据库的包含目录和包含库路径  即mysql-connector-c-6.1.11-win32-Realease该文件夹下面的include  和  lib
