@@ -3,3 +3,8 @@ README.md filter=lfs diff=lfs merge=lfs -text
 bin filter=lfs diff=lfs merge=lfs -text
 doc filter=lfs diff=lfs merge=lfs -text
 src filter=lfs diff=lfs merge=lfs -text
+src/Client/Content/SimpleDungeons/Maps/Demo_Scene_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+src/Client/Saved/Autosaves/Game/SimpleDungeons/Maps/Demo_Scene_BuiltData_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
+src/Client/Saved/Backup/Demo_Scene_BuiltData_2019-05-27-01-34-17.uasset filter=lfs diff=lfs merge=lfs -text
+src/Client/Saved/Logs/Myproject-backup-2019.05.23-18.48.08.log filter=lfs diff=lfs merge=lfs -text
+src/Client/Saved/StagedBuilds/WindowsNoEditor/Myproject/Content/Paks/Myproject-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
